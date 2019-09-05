@@ -10,4 +10,4 @@ setInterval(() => {
   index = (index + 1) % 4;
   const imageEl = document.querySelector("." + images[index]);
   imageEl.style.display = `block`;
-}, 5000);
+}, 10000);
