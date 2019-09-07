@@ -70,6 +70,7 @@ h3 {
   color: #333;
   padding-left: 10px;
   width: 270px;
+  text-shadow: none;
 }
 
 .email button:hover {
